@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Brand new Me",
+      "author": "Umer",
+      "content": "The Greedy Dog Story with Moral: Sometimes a moral story helps us find out the strength within us. An inspiring story helps you inspire yourself and motivate yourself. It also helps find out what you can do and what you cannot. There are hundreds of moral stories you may have read in your life. But how many of them actually made changes in your mind is a question. So in this post, I am going to share a powerful moral story that is The Greedy Dog Story with Moral which will definitely make changes in your life. The Greedy Dog Story is an old story and has always been popular among kids. This story teaches us to work with patience and understanding in times of adversity. So let's start reading the story",
+      "id": 1
+    },
+    {
+      "title": "The Truth",
+      "author": "Nisar",
+      "content": "Dark reality...",
+      "id": 2
+    },
+    {
+      "title": "Defining",
+      "author": "Umer",
+      "content": "Never let...",
+      "id": 3
+    },
+    {
+      "title": "Focusteck",
+      "content": "this is a software development company",
+      "author": "Umer",
+      "id": 4
+    }
+  ]
+}
